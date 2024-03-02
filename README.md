@@ -6,7 +6,7 @@
     This game was developed as a private project just for fun! <br />
     The project is ongoing in developement. This repo is <b>NOT</b> the current working directory.<br />
     It shows a build, we had to set up for an indie dev contest.<br />
-    I will update this repository, once we continue developement, as it is paused right now.<br /><br /><br />
+    I will update this repository, once we continue developement, as it is paused right now.<br /><br />
     The production style is very agile-heavy, which means that we constantly try out new ideas fast.
   </p>
   
